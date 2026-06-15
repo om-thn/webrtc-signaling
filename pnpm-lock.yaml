@@ -7,7 +7,7 @@ settings:
 importers:
 
   .:
-    devDependencies:
+    dependencies:
       y-webrtc:
         specifier: ^10.3.0
         version: 10.3.0(yjs@13.6.31)
